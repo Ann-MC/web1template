@@ -1,1 +1,27 @@
-h1{color:blue}
+h1{
+    color:#8c1114;
+    text-align: center;
+} 
+h2,h3{
+    color:red
+}
+img {
+    max-width: 100% !important;
+    height: auto !important;
+    vertical-align: middle;
+    border: 0;
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+body {
+    font-family: sans-serif;
+    display: block;
+    margin: 8px;
+    background: #fff;
+    
+    
+}
+::selection{
+    background:#3197fc;
+    text-shadow: none;
+}
