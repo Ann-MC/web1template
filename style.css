@@ -36,6 +36,17 @@ body {
     line-height:30px;
     
 }
+
+div{
+    display:inline-block;
+    width: 40%;
+
+}
+
+.listy {
+    list-style-type:none;
+
+}
 ::selection{
     background:#3197fc;
     text-shadow: none;
