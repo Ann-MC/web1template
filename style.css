@@ -37,10 +37,17 @@ body {
     
 }
 
-div{
-    display:inline-block;
-    width: 40%;
+.parent.sidebySide{
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background:whitesmoke;
 
+}
+
+.child.sidebySide{
+    display: inline-block;
 }
 
 .listy {
